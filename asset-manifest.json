@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wordCounter/static/css/main.88627bef.css",
-    "main.js": "/wordCounter/static/js/main.7f4476ef.js",
+    "main.js": "/wordCounter/static/js/main.c0a9b25e.js",
     "static/js/787.3a039655.chunk.js": "/wordCounter/static/js/787.3a039655.chunk.js",
     "index.html": "/wordCounter/index.html",
     "main.88627bef.css.map": "/wordCounter/static/css/main.88627bef.css.map",
-    "main.7f4476ef.js.map": "/wordCounter/static/js/main.7f4476ef.js.map",
+    "main.c0a9b25e.js.map": "/wordCounter/static/js/main.c0a9b25e.js.map",
     "787.3a039655.chunk.js.map": "/wordCounter/static/js/787.3a039655.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88627bef.css",
-    "static/js/main.7f4476ef.js"
+    "static/js/main.c0a9b25e.js"
   ]
 }
